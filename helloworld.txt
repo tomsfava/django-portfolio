@@ -1,0 +1,3 @@
+Olá tutores, seria interessante se ao invés de o professor nos orientar a fazer o PR (por que agora eu já fiz e estou fazendo esse novo PR simulado), ele omitisse a criação do PR e assim eu faria isso somente agora, no contexto do exercício.
+ Para avaliar o Pull Request real do meu fluxo de desenvolvimento, favor checar o histórico de commits na branch main
+ Enfim, o curso é legal, mas tem umas coisinhas um pouco mal-feitas, obrigado de qualquer forma, forte abraço, Tomás
